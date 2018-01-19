@@ -1,5 +1,5 @@
 document.querySelector("button").addEventListener("click", function () {
-    var nomDessert = prompt("Entrez le nom du nouveau dessert");
+    var nomDessert = prompt("Ajouter élément :");
     
     var dessertElt = document.createElement("li");
     dessertElt.textContent = nomDessert;
