@@ -1,0 +1,44 @@
+html body{
+    margin: 0 auto;
+    height: 500px;
+    background-image: url(photo-1474974573965-2ed43d64cb45.jpeg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Ranga', cursive;
+    
+}
+
+#li1{
+    font-size: 50px;
+    text-align: center;
+    list-style-type: none;
+}
+
+#desserts{
+    width: 30%;
+    margin-left: 48%;
+    margin-top: 5%;
+    height: 80%;
+    text-align: left;
+    list-style-type: circle;
+    background-color: black;
+    color: aliceblue;
+    border: 10px solid white;
+    border-radius: 100px;
+    font-size: 30px;
+    
+}
+
+button{
+    width: 10%;
+    height: 10%;
+    margin-left: 60%;
+    border-color: black;
+    border-radius: 100px;
+    background-color: white;
+    font-family: 'Ranga', cursive;
+    font-size: 30px;
+    box-shadow: 10px 20px 50px 1px;
+}
+
